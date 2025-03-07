@@ -1,0 +1,6 @@
+name: TritonPlanExtension
+description: ${project.description}
+version: ${project.version}
+main: cc.happyareabean.plan.extension.triton.bungee.TritonExtensionBungee
+author: HappyAreaBean
+depends: [Triton, Plan]

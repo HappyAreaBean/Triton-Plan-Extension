@@ -1,0 +1,7 @@
+name: TritonPlanExtension
+description: ${project.description}
+version: ${project.version}
+main: cc.happyareabean.plan.extension.triton.spigot.TritonExtensionSpigot
+author: HappyAreaBean
+website: https://happyareabean.cc
+depend: [Triton, Plan]

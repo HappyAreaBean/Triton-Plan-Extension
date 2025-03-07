@@ -1,0 +1,20 @@
+{
+  "id": "triton-plan-extension",
+  "name": "${project.description}",
+  "version": "${project.version}",
+  "url": "https://happyareabean.cc",
+  "authors": [
+    "HappyAreaBean"
+  ],
+  "dependencies": [
+    {
+      "id": "triton",
+      "optional": false
+    },
+    {
+      "id": "plan",
+      "optional": false
+    }
+  ],
+  "main": "cc.happyareabean.plan.extension.triton.velocity.TritonExtensionVelocity"
+}
