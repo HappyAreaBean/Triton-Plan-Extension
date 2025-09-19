@@ -68,7 +68,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <junit-version>5.9.2</junit-version>
+        <junit-version>5.13.4</junit-version>
         <mockito-version>5.19.0</mockito-version>
     </properties>
 
