@@ -5,7 +5,7 @@ provides additional data to the Plan API.
 
 ## Showcase
 
-![image](https://image.happyareabean.cc/u/QzC1VPY6lBEi6eIc.jpg)
+![image](https://image.happyareabean.cc/u/CHH2bsOHxvnYby7z.jpg)
 
 ## Description
 
